@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+</head>
+<body>
+
+<img style="background-color:black;" src='https://styleguide.umbc.edu/files/2019/03/UMBC-primary-logo-CMYK-on-black-1024x236.png'>
+
+<h1 style="background-color:gold;">Bachelor of Science in Information Systems</h1>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #000;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #555;
+}
+
+.active {
+  background-color: #555;
+}
+</style>
+<body>
+
+<div class="icon-bar">
+  <a href="enter HTML link here!"><i class="fa fa-home"></i></a> 
+   <a class="active" href="enter HTML link here!"><i class="fa fa-globe"></i></a> 
+   <a href="enter HTML link here!"><i class="fa fa-envelope"></i></a> 
+  <a href="enter HTML link here!"><i class="fa fa-search"></i></a>  
+</div>
+
+
+<img style="width:50%"; src='https://informationsystems.umbc.edu/files/2013/04/BS-Gateway-Check-fall10.gif'>
+
+<p>The BS program prepares students for all potential career positions in the IS field. These include: Systems Analysis and Design, Computer Networking and Health Care Informatics.</p>
+
+<p>For successful completion of the degree, all students must satisfy the general education requirements that are explained in the UMBC Undergraduate Catalog.</p>
+
+<p>The required program courses for the Bachelor of Science Degree are below. Course descriptions can be found in the Course Catalog.</p>
+
+<p>Effective Fall 2013:  All Information Systems majors must complete at least 9 upper level IS and Management courses taught by the IS department at UMBC.</p>
+
+<p style="font-size:20px;"><b>Information Systems</b></p>
+<p>
+<ul>
+<li>IS 300 – Management Information Systems</li>
+<li>IS 310 – Software and Hardware Concepts</li>
+<li>IS 410 – Introduction to Database Design</li>
+<li>IS 420 – Database Application Development</li>
+<li>IS 425 – Decision Support Systems</li>
+<li>IS 436 – Structured Systems Analysis & Design</li>
+<li>IS 450 – Data Communications and Networks</li>
+<li>IS 451 – Network Design and Management</li>
+<li>IS 3xx or 4xx – Upper Level IS Elective</li>
+<br><i>(Students may not use IS 397, IS 399, IS 400, IS 467, IS 469, IS 478, IS 479, or any course being used to satisfy an IS certificate requirement.)</i>
+</ul>
+</p>
+
+<p style="font-size:20px;"><b>Mathematics and Computer Science</b></p>
+<p>
+<ul>
+<li>MATH 155 – Applied Calculus</li>
+<li>MATH 215 – Finite Mathematics for Information Sciences</li>
+<li>STAT 351 – Applied Statistics for Business and Economics</li>
+<li>IS 147 – Introduction to Computer Programming or</li>
+<li>CMSC 201 – Computer Science I for Majors</li>
+<li>IS 247 – Computer Programming II or CMSC 202 – Computer Science II for Major</li>
+<li>One additional approved programming course
+<i>(See your IS advisor for further information)</i></li>
+</ul>
+</p>
+
+<p style="font-size:20px;"><b>Administrative Science</b></p>
+<p>
+<ul>
+<li>MGMT 210 – The Practice of Management</li>
+<li>ECON 101 – Principles of Microeconomics (SS)</li>
+<li>ECON 102 – Principles of Macroeconomics (SS)</li>
+<li>ECON 121 – Principles of Accounting I</li>
+<li>ECON 122 – Principles of Accounting II</li>
+<li>ENGL 393 – Technical Communication</li>
+</ul>
+</p>
+
+<p style="font-size:20px;"><b>Notes:</b></p>
+<p>Students must earn a grade of “C” or better for any course to be applied to the Information Systems major.</p>
+
+<p>Before being allowed to take IS 410 and 450 (and then the rest of the IS 400-level core courses), a student must first complete the following gateway requirements:</p>
+
+<p>A grade of “C” or higher in:
+<ul>
+<li>MATH 155 – Elementary Calculus and</li>
+<li>IS 147 – Introduction to Computer Programming</li>
+</ul>
+<p> And a grade of “B” or higher in:
+<ul>
+<li>IS 300 – Management Information Systems</li>
+<li>IS 310 – Software and Hardware Concepts</li>
+</ul>
+</p>
+
+<p>Students may not repeat IS 300 or 310 more than once.</p>
+
+<p>Students entering UMBC for the first time before Fall 2015 must earn a “B” average with no grade below a “C” in IS 300 and IS 310.</p>
+
+<p>Examples of upper-level electives that could be used to help fulfill the IS major requirements include: IS 303, IS 304, IS 460, IS 461, IS 427, IS 428, IS 430, IS 438, IS 464, IS 471, IS 472, IS 451U, IS 451M, and IS 452, as well as others (see catalog for a full listing).</p>
+
+<p>There are also several special courses, including IS 399, IS 478, IS 479, IS 469, IS 397, and IS 467, among others, that cannot be used to satisfy the IS upper-level elective requirement, but that students can use to gain academic credit for internships, coops, and research projects. See your advisor for more information.</p>
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" alt="Facebook" style="width:30%">
+  </div>
+  <div class="column">
+    <img src="https://www.sketchappsources.com/resources/source-image/twitterlogo_1x.png" alt="Twitter" style="width:30%">
+  </div>
+  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1024px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" alt="YouTube" style="width:30%">
+  </div>
+</div>
+
+
+ 
+
+
+</body>
+</html>
