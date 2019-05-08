@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+</style>
+</head>
+<body>
+
+<img style="background-color:black;" src='https://styleguide.umbc.edu/files/2019/03/UMBC-primary-logo-CMYK-on-black-1024x236.png'>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #000;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #555;
+}
+
+.active {
+  background-color: #555;
+}
+</style>
+<body>
+
+<div class="icon-bar">
+  <a href="enter HTML link here!"><i class="fa fa-home"></i></a> 
+   <a href="enter HTML link here!"><i class="fa fa-globe"></i></a> 
+   <a class="active" href="enter HTML link here!"><i class="fa fa-envelope"></i></a> 
+  <a href="enter HTML link here!"><i class="fa fa-search"></i></a>  
+</div>
+
+
+<p style="font-size:50px;"><b>Contact Us</b></p>
+
+<p>To reach any UMBC office, department, faculty member or student, please call our general information number at 410-455-1000.</p>
+
+<p>University of Maryland, Baltimore County
+<br>1000 Hilltop Circle
+<br>Baltimore, MD 21250</p>
+
+<p style="font-size:20px;"><b>Important Phone Numbers</b></p>
+<ul>
+  <li>Information 410-455-1000</li>
+  <li>Undergraduate Asmissions 410-455-2291</li>
+  <li>Graduate Admissions 410-455-2537</li>
+  <li>Division of Professional Studies 410-455-2336</li>
+  <li>Summer and Winter Sessions	410-455-2335</li>
+  <li>Alumni Relations	410-455-2904</li>
+  <li>Athletics	410-455-2126</li>
+  <li>ArtsLine	410-455-ARTS</li>
+  <li>Career Services Center	410-455-2216</li>
+  <li>Communications / Media Relations	410-455-8117</li>
+  <li>Financial Aid and Scholarships	410-455-2387</li>
+  <li>Library	410-455-2233</li>
+  <li>Parking Services	410-455-2551</li>
+  <li>Police	410-455-3133</li>
+  <li>Residential Life	410-455-2591</li>
+  <li>Shriver Center	410-455-2493</li>
+  <li>Student Business Services	410-455-2288</li>
+  <li>UMBC Training Centers	443-692-6600</li>
+
+  
+</ul>  
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png" alt="Facebook" style="width:30%">
+  </div>
+  <div class="column">
+    <img src="https://www.sketchappsources.com/resources/source-image/twitterlogo_1x.png" alt="Twitter" style="width:30%">
+  </div>
+  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/YouTube_play_buttom_icon_%282013-2017%29.svg/1024px-YouTube_play_buttom_icon_%282013-2017%29.svg.png" alt="YouTube" style="width:30%">
+  </div>
+</div>
+
+
+ 
+
+
+</body>
+</html>
